@@ -5,11 +5,11 @@ def plot_dynamics(t, k_euler, k_rk4, k_star, save_path=None):
 
     plt.plot(t, k_euler, '--', label="Euler", linewidth=2)
     plt.plot(t, k_rk4, '-', label="RK4", linewidth=2)
-    plt.axhline(k_star, linestyle=':', label=f"Steady state k* = {k_star:.2f}")
+    plt.axhline(k_star, linestyle=':', label=f"SS k* = {k_star:.2f}")
 
-    plt.xlabel("Time")
+    plt.xlabel("Tiempo")
     plt.ylabel("Capital per capita")
-    plt.title("Solow Model: Numerical Dynamics")
+    plt.title("Solow Model")
     plt.legend()
     plt.grid(True)
 
