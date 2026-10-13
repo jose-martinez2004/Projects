@@ -91,4 +91,5 @@ En desarrollo. La revisión de datos, la construcción de indicadores climático
 
 ## Autores
 
-Proyecto de investigación académica sobre El Niño Costero e informalidad laboral en el Perú.
+Jose Martinez
+Enzo Cisneros
