@@ -4,7 +4,7 @@
 
 Este proyecto analiza la relación entre la exposición a eventos climáticos extremos asociados a El Niño Costero y la informalidad laboral en el Perú, con especial atención al episodio de 2017.
 
-La investigación busca evaluar en qué medida las diferencias territoriales en la exposición climática se relacionan con la probabilidad de que la población ocupada de entre 18 y 65 años tenga un empleo informal.
+La investigación busca evaluar en qué medida las diferencias territoriales en la exposición climática se relacionan con la probabilidad de que la población ocupada de entre 14 y 65 años tenga un empleo informal.
 
 ## Objetivos
 
